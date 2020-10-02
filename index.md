@@ -13,7 +13,7 @@ Welkom op de website van mijn nieuwste flutprogrammeerproject: RandomFolderGener
 download hieronder!
 ```
 **Gesponsord door onderkin.tk**
-[![DOWNLOADEN!!!!!!!](https://raw.githubusercontent.com/onderkin/RandomFolderGenerator/gh-pages/download.jpg)](https://github.com/onderkin/RandomFolderGenerator/releases/download/v1.52/main.exe)
+[![DOWNLOADEN!!!!!!!](https://raw.githubusercontent.com/onderkin/RandomFolderGenerator/gh-pages/download.png)](https://github.com/onderkin/RandomFolderGenerator/releases/download/v1.52/main.exe)
 **Gesponsord door onderkin.tk**
 
 
