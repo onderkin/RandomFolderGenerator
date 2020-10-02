@@ -8,7 +8,7 @@ Welkom op de website van mijn nieuwste flutprogrammeerproject: RandomFolderGener
 2. zet het in een map waar je random spam folders wilt
 3. open het programmaatje.
 4. klik een paar keer op die knop
-5. klaar! nu zijn er random spam bestanden geplaatst in de mak\p waar het programmaatje staat!
+5. klaar! nu zijn er random spam bestanden geplaatst in de map waar het programmaatje staat!
 
 download hieronder!
 ```
